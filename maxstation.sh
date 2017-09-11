@@ -20,4 +20,3 @@ cd $HOME/citibash/
 cat stat_list.txt | sort | uniq -c | sort -nr >> result.txt
 # display result
 head result.txt
-
